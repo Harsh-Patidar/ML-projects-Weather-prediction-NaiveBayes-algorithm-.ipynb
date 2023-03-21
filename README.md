@@ -12,11 +12,15 @@ it simple work like that something event is occured once than it will found out 
 it is simply constent about conditional probability
 probability of event a is determined by event b that is popular methology.
 Bayes Formula
+
 P(A/B)=P(B/A).P(A)/P(B)
 
 P(A)=probability of event A
+
 P(B)=probability of event B
+
 P(A/B)=Event B already occured based on that event B to find out the event A
+
 P(B/A)=Event A already occured based on that event A to find out event B
 
 we use pandas...
