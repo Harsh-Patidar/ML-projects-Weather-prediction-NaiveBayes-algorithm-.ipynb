@@ -11,6 +11,7 @@ BAYES THEOREM: is one of the important to make hypothisis about something occure
 it simple work like that something event is occured once than it will found out other events....
 it is simply constent about conditional probability
 probability of event a is determined by event b that is popular methology.
+
 Bayes Formula
 
 P(A/B)=P(B/A).P(A)/P(B)
